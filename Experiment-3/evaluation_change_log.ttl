@@ -9,7 +9,7 @@
   cdo:hasDetectionEnd "2022-12-31T00:00:00.000000"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
   cdo:hasCurrentVersion <https://raw.githubusercontent.com/alex-randles/Change-Detection-System-Examples/main/manipulated_file/student.csv> ;
   cdo:hasPreviousVersion <https://raw.githubusercontent.com/kg-construct/rml-test-cases/master/test-cases/RMLTC0002a-CSV/student.csv>;
-  cdo:hasNotificationPolicy <http://www.example.com/notificationPolicy/user/1>; 
+  cdo:hasNotificationPolicy <http://www.example.com/notificationPolicy/user/1>;
   cdo:hasChange <http://www.example.com/insertChange/15>,
 				<http://www.example.com/insertChange/19>,
 				<http://www.example.com/insertChange/10>,
