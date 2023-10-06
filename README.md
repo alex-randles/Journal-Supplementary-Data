@@ -37,7 +37,7 @@ This directory contains the provided document ([MQIO_Document.pdf](./Experiment-
 
 
 #### /Experiment-5
-This directory contains the provided document ([OSCD_Document.pdf](./Experiment-4/OSCD_Document.pdf))  and questionnaire ([OSCD_Questionnaire.pdf](./Experiment-5/OSCD_Questionnaire.pdf)), 
+This directory contains the provided document ([OSCD_Document.pdf](./Experiment-5/OSCD_Document.pdf))  and questionnaire ([OSCD_Questionnaire.pdf](./Experiment-5/OSCD_Questionnaire.pdf)), 
 which asked ontology design experts about the design of the 
 **OSCD**. 
 
