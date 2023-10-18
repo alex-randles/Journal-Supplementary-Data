@@ -14,15 +14,18 @@
         rr:predicate prov:generatedAtTime;
         rr:objectMap [
              rr:column "GENERATION_TIME";
+             # incorrect datatype for prov:generatedAtTime 
              rr:datatype xsd:time;
         ];
     ];
 
     rr:predicateObjectMap [
+        # prov:values is an undefined property
         rr:predicate prov:values;
         rr:objectMap [
              rr:column "REPRESENTATION";
-             rr:language "en-GP"
+             # language tag not defined in RFC 5646
+             rr:language "en-GP";
         ];
     ]
 .
