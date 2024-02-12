@@ -29,7 +29,7 @@
  	 rr:predicate prov:value;	
 	 rr:objectMap [	
 		 rr:language "en-GB";	
-		 rr:column "DESCRIPTION";	
+		 rr:column "REPRESENTATION";	
 		]; 	
  ];	
 .	
